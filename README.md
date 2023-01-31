@@ -1,5 +1,7 @@
-# Book-Genre-Prediction
-Programmed a Book Genre Predictor that can predict a book's genre when given features such as title, number of ratings, and author's name.
+# Book-Genre-Classifier
+Programmed a Book Genre Classifier that can predict a book's genre when given features such as title, number of ratings, and author's name. 
+Created in collaboration with 3 other students (Elaine Chua, Isabella Fisch, and Rishita Shroff). I helped design and implement all of the parts.
+
 
 # Executive Summary
 By utilizing the dataset from [Kaggle's TagMyBook](https://www.kaggle.com/datasets/athu1105/tagmybook), I built a book genre predictor which predicts a book's genre based on some given features. I hypothesized that books within a genre would share similar characteristics with one another such as common words, ratings, reviews, etc. In order to test and validate this hypothesis, I utilized machine learning methods, specifically a decision tree classifier and a random forest classifier. The model was revealed to be relatively accurate when the given sample size was large. However, it's important to keep in mind that book genres are subjective to readers and this model may produce biased results based on its training dataset.
